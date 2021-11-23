@@ -1,2 +1,8 @@
 body{/*backgrouhnd color*/
-background-color: orchid;}
+background-color: dimgrey;}
+p { border: 4px double ghostwhite;
+ color: ghostwhite;}
+header{text-align: center; color: whitesmoke; margin: 3px;border: double greenyellow;padding: 9px;
+}
+a{color: firebrick;}
+img{margin: 20px;}
