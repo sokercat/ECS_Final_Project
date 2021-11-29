@@ -1,8 +1,9 @@
 body{/*backgrouhnd color*/
-background-color: dimgrey;}
+background-color: dimgrey;margin: 4%;}
 p { border: 4px double ghostwhite;
  color: ghostwhite;}
-header{text-align: center; color: whitesmoke; margin: 3px;border: double greenyellow;padding: 9px;
+header{ center: align; color: whitesmoke; margin: 3px;border: double greenyellow;padding: 9px;
 }
-a{color: firebrick;}
-img{margin: 20px;}
+a{ center: text ;color: firebrick; padding: 10px;}
+img{margin: 20px;  border-width: 2px; border-color: red; border-style: solid;}
+.b{color: red;}
