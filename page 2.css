@@ -1,0 +1,44 @@
+body{/*backgrouhnd color*/
+background-image: url(download-1.jpg);height: auto; width: auto;margin: 4%;}
+p { ;
+ color: aqua;
+font-family: fantasy;}
+h1
+{ font-family: fantasy;
+    font-style: oblique;
+    text-align:center ;
+ color: cyan;}
+a{  text-decoration: none;
+    border-radius: 10px;
+    center: text ;
+    color: white; 
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+    width: 200%;
+}
+.c{width: 50%;
+margin-left: 55%;}
+a:hover {
+    color: darkviolet;
+    background-color: greenyellow;
+}
+img{
+    margin: 10px; 
+     border-width: 4px; 
+     border-color: red;
+      border-style: solid;}
+.b{color: aqua;
+    font-family: fantasy;
+    margin: 3px;
+  border:double greenyellow;
+  padding: 9px;
+width: 150%;}
+.center{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;}
+table{width: 100%;}
+th {
+    width: 300px;
+}
